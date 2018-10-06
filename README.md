@@ -1,2 +1,1 @@
-# Proyecto-TendinitisdeQuervain
-https://estefanoa21.github.io/Proyecto-TendinitisdeQuervain/
+# Proyecto-AnemiaGrupo6
